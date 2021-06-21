@@ -1,3 +1,5 @@
+![Marca da Mapeia](https://github.com/mapeia/identidade-visual/raw/main/docs/Mapeia-Github-Capa.png)
+
 # Identidade Visual Mapeia
 Repositório documentar e fornecer arquivos referentes a identidade visual da Mapeia.
 
